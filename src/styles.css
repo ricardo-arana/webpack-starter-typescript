@@ -2,3 +2,7 @@
 html, body {
     background-color: gray;
 }
+
+.logo {
+    text-align: center;
+}
